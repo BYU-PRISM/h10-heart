@@ -1,0 +1,65 @@
+[
+  {
+    "file": "subject-a/rest.csv.gz",
+    "rows": 64240,
+    "startsUtc": "2021-06-26T03:41:37.969Z",
+    "durationMin": 8.2,
+    "megabytes": 0.5
+  },
+  {
+    "file": "subject-a/sleep-1.csv.gz",
+    "rows": 468660,
+    "startsUtc": "2021-06-26T05:47:04.761Z",
+    "durationMin": 60,
+    "megabytes": 3.67
+  },
+  {
+    "file": "subject-a/sleep-2.csv.gz",
+    "rows": 468733,
+    "startsUtc": "2021-06-26T06:47:04.026Z",
+    "durationMin": 60,
+    "megabytes": 3.71
+  },
+  {
+    "file": "subject-a/sleep-3.csv.gz",
+    "rows": 468076,
+    "startsUtc": "2021-06-26T07:47:04.106Z",
+    "durationMin": 60,
+    "megabytes": 3.73
+  },
+  {
+    "file": "subject-a/sleep-4.csv.gz",
+    "rows": 468733,
+    "startsUtc": "2021-06-26T08:47:03.952Z",
+    "durationMin": 60,
+    "megabytes": 3.73
+  },
+  {
+    "file": "subject-a/sleep-5.csv.gz",
+    "rows": 468660,
+    "startsUtc": "2021-06-26T09:47:04.402Z",
+    "durationMin": 60,
+    "megabytes": 3.73
+  },
+  {
+    "file": "subject-a/sleep-6.csv.gz",
+    "rows": 468660,
+    "startsUtc": "2021-06-26T10:47:04.416Z",
+    "durationMin": 60,
+    "megabytes": 3.71
+  },
+  {
+    "file": "subject-a/sleep-7.csv.gz",
+    "rows": 28762,
+    "startsUtc": "2021-06-26T11:47:04.541Z",
+    "durationMin": 3.7,
+    "megabytes": 0.23
+  },
+  {
+    "file": "subject-b/workout.csv.gz",
+    "rows": 270027,
+    "startsUtc": "2021-07-10T21:16:13.052Z",
+    "durationMin": 34.6,
+    "megabytes": 2.17
+  }
+]

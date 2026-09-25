@@ -1,0 +1,69 @@
+{
+  "sourceRoot": "/home/john/apps/heart/2026_ECG",
+  "subjects": [
+    {
+      "id": "subject-a",
+      "shiftDays": 1827,
+      "recordings": [
+        {
+          "out": "rest.csv",
+          "dir": "John_Hedengren/2026_06_26",
+          "file": "6-26-26, 9:41 PM-1.csv"
+        },
+        {
+          "out": "sleep-1.csv",
+          "dir": "John_Hedengren/2026_06_26",
+          "file": "2026_06_26_Sleep.zip",
+          "member": "sleep-1.csv"
+        },
+        {
+          "out": "sleep-2.csv",
+          "dir": "John_Hedengren/2026_06_26",
+          "file": "2026_06_26_Sleep.zip",
+          "member": "sleep-2.csv"
+        },
+        {
+          "out": "sleep-3.csv",
+          "dir": "John_Hedengren/2026_06_26",
+          "file": "2026_06_26_Sleep.zip",
+          "member": "sleep-3.csv"
+        },
+        {
+          "out": "sleep-4.csv",
+          "dir": "John_Hedengren/2026_06_26",
+          "file": "2026_06_26_Sleep.zip",
+          "member": "sleep-4.csv"
+        },
+        {
+          "out": "sleep-5.csv",
+          "dir": "John_Hedengren/2026_06_26",
+          "file": "2026_06_26_Sleep.zip",
+          "member": "sleep-5.csv"
+        },
+        {
+          "out": "sleep-6.csv",
+          "dir": "John_Hedengren/2026_06_26",
+          "file": "2026_06_26_Sleep.zip",
+          "member": "sleep-6.csv"
+        },
+        {
+          "out": "sleep-7.csv",
+          "dir": "John_Hedengren/2026_06_26",
+          "file": "2026_06_26_Sleep.zip",
+          "member": "sleep-7.csv"
+        }
+      ]
+    },
+    {
+      "id": "subject-b",
+      "shiftDays": 1827,
+      "recordings": [
+        {
+          "out": "workout.csv",
+          "dir": "Ashlyn_Kuchin/ecg",
+          "file": "Ashlyn 2026-7-11-1.csv"
+        }
+      ]
+    }
+  ]
+}

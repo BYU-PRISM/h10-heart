@@ -1,0 +1,21 @@
+{
+  "//": "Copy to tools/sources.local.json (gitignored) and fill in your own private recordings.",
+  "sourceRoot": "/absolute/path/to/private/recordings",
+  "subjects": [
+    {
+      "id": "subject-a",
+      "shiftDays": 1827,
+      "recordings": [
+        { "out": "rest.csv", "dir": "some-subject/2026_06_26", "file": "6-26-26, 9:41 PM-1.csv" },
+        { "out": "sleep-1.csv", "dir": "some-subject/2026_06_26", "file": "2026_06_26_Sleep.zip", "member": "sleep-1.csv" }
+      ]
+    },
+    {
+      "id": "subject-b",
+      "shiftDays": 1827,
+      "recordings": [
+        { "out": "workout.csv", "dir": "another-subject/ecg", "file": "Workout 2026-7-11-1.csv" }
+      ]
+    }
+  ]
+}
