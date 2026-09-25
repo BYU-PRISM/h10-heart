@@ -1,16 +1,13 @@
-# h10-heart
+# Polar H10 Heart Monitor
 
 Browser-only analysis of Polar H10 single-lead ECG recordings.
 
-You upload a raw 130 Hz ECG export — one CSV or a ZIP of them — and get back
+Upload a raw 130 Hz ECG export, one CSV or a ZIP of them, and get back
 rhythm screening, heart-rate response and recovery, full HRV statistics, sleep
 diagnostics, an experimental breathing estimate, an ECG explorer, and a printable
 PDF report. **Nothing is uploaded anywhere.** The page has no upload endpoint; all
 parsing and analysis runs in a Web Worker in your own browser, and the deployed
-site is static files.
-
-This is research and training software. It is not a medical device and it does
-not diagnose anything.
+site is static files. Use the app at https://apopt.com/heart
 
 ## Quick start
 
@@ -107,5 +104,4 @@ lives in `tools/sources.local.json`, which is not committed.
 
 ## License
 
-Not yet licensed for reuse. Add a `LICENSE` file before making the repository
-public.
+MIT License.
